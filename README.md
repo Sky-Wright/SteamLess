@@ -119,4 +119,4 @@ Built by an indie developer who switched to Linux and needed this to exist. Batt
 
 **[Get SteamLess on itch.io →](https://zivena.itch.io/steamless)**
 
-💜 [Support ongoing development on Patreon](https://patreon.com/Sky_Wright)
+[Support ongoing development on Patreon](https://patreon.com/Sky_Wright) 💜
