@@ -21,6 +21,9 @@ Powered by Proton (Steam's battle-tested compatibility layer), SteamLess creates
 
 ## Key Features
 
+### Run Windows Apps on Linux
+  - Install, manage, and launch your Windows apps on Linux, seamlessly.
+
 ### Desktop Integration
 - **Right-click any .exe** → "Open with SteamLess" → guided setup wizard
 - Create desktop shortcuts for your installed Windows apps
